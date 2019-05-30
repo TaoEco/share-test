@@ -8,7 +8,7 @@ hello from the other side
 
 <<<<<<< HEAD
 
-wolulu OwOwolulu OwO
+wolulu OwO
 =======
 Another hello from tao
 >>>>>>> abdc8a359f2ff8dfd728e6002933a72116f1388d
